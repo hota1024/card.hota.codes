@@ -51,7 +51,9 @@ export default async function Home({ searchParams }: Props) {
                 <p className="text-center">
                   Next.js と Rust が好きな休学中の大学生。
                   <br />
-                  たまにプログラミング言語とかコンパイラを作ってる。
+                  たまに<span>プログラミング言語とか</span><span>コンパイラを作ってる。</span>
+                  <br />
+                  TRPG、ゲーム、マンガ、アニメ、お散歩が好き。
                 </p>
               </div>
             </div>
