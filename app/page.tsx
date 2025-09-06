@@ -53,7 +53,7 @@ export default async function Home({ searchParams }: Props) {
                   <br />
                   たまに<span>プログラミング言語とか</span><span>コンパイラを作ってる。</span>
                   <br />
-                  TRPG、ゲーム、マンガ、アニメ、お散歩が好き。
+                  TRPG、ゲーム、マンガ、アニメ、お散歩も好き。
                 </p>
               </div>
             </div>
